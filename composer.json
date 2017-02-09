@@ -1,9 +1,9 @@
 {
     "name": "redcrackle/model3d",
-    "description": "Library to generate objects from 3D Point Maps.",
+    "description": "Library to generate objects by parsing .obj files.",
     "type": "library",
     "require": {
-        "php": "5.3.0"
+        "php": ">=5.3.0"
     },
     "license": "GPLv3",
     "authors": [
