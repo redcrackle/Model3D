@@ -18,5 +18,12 @@
         "email": "neerav.mehta@redcrackle.com",
         "source": "https://github.com/redcrackle/Model3D"
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+
+    "autoload": {
+        "psr-4": {
+          "Model3D\\": "src/"
+        }
+    },
+
 }
