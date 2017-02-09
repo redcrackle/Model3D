@@ -1,0 +1,22 @@
+{
+    "name": "redcrackle/model3d",
+    "description": "Library to generate objects from 3D Point Maps.",
+    "type": "library",
+    "require": {
+        "php": "5.3.0"
+    },
+    "license": "GPLv3",
+    "authors": [
+        {
+            "name": "Neerav Mehta",
+            "email": "neerav.mehta@redcrackle.com",
+            "homepage":  "http://redcrackle.com",
+            "role": "Founder & CEO"
+        }
+    ],
+    "support": {
+        "email": "neerav.mehta@redcrackle.com",
+        "source": "https://github.com/redcrackle/Model3D"
+    },
+    "minimum-stability": "dev"
+}
