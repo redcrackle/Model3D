@@ -5,7 +5,7 @@
     "require": {
         "php": ">=5.3.0"
     },
-    "license": "GPLv3",
+    "license": "GPL-3.0",
     "authors": [
         {
             "name": "Neerav Mehta",
